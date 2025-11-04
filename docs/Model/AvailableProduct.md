@@ -1,0 +1,46 @@
+# # AvailableProduct
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**country_iso** | **string** |  | [optional]
+**currency_code** | **string** |  | [optional]
+**product_currency_code** | **string** |  | [optional]
+**name** | **string** |  | [optional]
+**provider_code** | **string** |  | [optional]
+**product_code** | **string** |  | [optional]
+**product_category** | **string** |  | [optional]
+**product_category_logo** | **string** |  | [optional]
+**discount** | **float** |  | [optional]
+**description** | **string** |  | [optional]
+**product_description** | **string** |  | [optional]
+**product_url** | **string** |  | [optional]
+**reedem_desc** | **string** |  | [optional]
+**reedem_url** | **string** |  | [optional]
+**product_logo** | **string** |  | [optional]
+**brand_logo** | **string** |  | [optional]
+**terms_conditions** | **string** |  | [optional]
+**terms_url** | **string** |  | [optional]
+**privacy_url** | **string** |  | [optional]
+**notes** | **string** |  | [optional]
+**receipt_message** | **string** |  | [optional]
+**is_transation_cancelabled** | **bool** |  | [optional]
+**reference_length** | **int** |  | [optional]
+**is_voucher** | **bool** |  | [optional]
+**international_product_options_list** | [**\OpenAPI\Client\Model\EzeTopGetProductsResponse[]**](EzeTopGetProductsResponse.md) |  | [optional]
+**visible_fields** | [**\OpenAPI\Client\Model\VisibleFields**](VisibleFields.md) |  | [optional]
+**mandatory_fields** | [**\OpenAPI\Client\Model\MandatoryFields**](MandatoryFields.md) |  | [optional]
+**next_method_call** | **string** |  | [optional]
+**group_code** | **string** |  | [optional]
+**vfp_code** | **string** |  | [optional]
+**vgp_code** | **string** |  | [optional]
+**general_data_message** | **string** |  | [optional]
+**dealer_code** | **string** |  | [optional]
+**dealer_type** | **string** |  | [optional]
+**group_key** | **string** |  | [optional]
+**image_code** | **string** |  | [optional]
+**pin_expiry_time** | **string** |  | [optional]
+**product_options_list** | [**\OpenAPI\Client\Model\AvailableProductOptions[]**](AvailableProductOptions.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
