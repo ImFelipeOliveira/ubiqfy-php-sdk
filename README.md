@@ -144,7 +144,7 @@ All URIs are relative to *https://api.ubiqfy.com*
 
 ## Authorization
 
-Endpoints do not require authorization.
+Endpoints require authorization.
 
 ## Tests
 
